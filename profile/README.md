@@ -1,7 +1,7 @@
 # BuLo
 
 ## Architecture Diagram
-![ArchitectureDiagram](./assets/ArchitectureDiagram.png)
+![ArchitectureDiagram](profile/assets/ArchitectureDiagram.png)
 
 ## Repos
 - [App](https://github.com/bulo-hq/app-flutter)
