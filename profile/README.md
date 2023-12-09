@@ -1,12 +1,19 @@
-## Hi there 👋
+# BuLo
 
-<!--
+## Architecture Diagram
+![ArchitectureDiagram](./assets/ArchitectureDiagram.png)
 
-**Here are some ideas to get you started:**
+## Repos
+- [App](https://github.com/bulo-hq/app-flutter)
+- [GraphQL API](https://github.com/bulo-hq/app-api)
+- [AppVersion API](https://github.com/bulo-hq/app-version-api)
+- [Location API](https://github.com/bulo-hq/api-location)
+- [Transit API](https://github.com/bulo-hq/api-transit)
+- [GTFS-JP API](https://github.com/bulo-hq/gtfs-jp-api)
+- [GTFS-RT API](https://github.com/bulo-hq/gtfs-rt-api)
+- [OSM API](https://github.com/bulo-hq/api-osm)
+- [OSRM API](https://github.com/bulo-hq/api-osrm)
+- [GTFS-JP Crawler](https://github.com/bulo-hq/gtfs-jp-crawler)
+- [GTFS-RT Crawler](https://github.com/bulo-hq/gtfs-rt-crawler)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+&copy; 2023 BuLo Developers
