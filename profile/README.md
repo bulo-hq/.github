@@ -1,9 +1,6 @@
 # BuLo
+![ArchitectureDiagram](https://github.com/bulo-hq/.github/assets/51151242/1806f4c3-3202-4cc7-9d20-4ca867f20234)
 
-## Architecture Diagram
-![ArchitectureDiagram](profile/assets/ArchitectureDiagram.png)
-
-## Repos
 - [App](https://github.com/bulo-hq/app-flutter)
 - [App Gateway](https://github.com/bulo-hq/app-gateway)
 - [AppVersion API](https://github.com/bulo-hq/app-version-api)
