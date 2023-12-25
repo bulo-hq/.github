@@ -5,7 +5,7 @@
 
 ## Repos
 - [App](https://github.com/bulo-hq/app-flutter)
-- [GraphQL API](https://github.com/bulo-hq/app-api)
+- [App Gateway](https://github.com/bulo-hq/app-gateway)
 - [AppVersion API](https://github.com/bulo-hq/app-version-api)
 - [Location API](https://github.com/bulo-hq/api-location)
 - [Transit API](https://github.com/bulo-hq/api-transit)
