@@ -13,5 +13,7 @@
 - [OSRM API](https://github.com/bulo-hq/osrm-api)
 - [GTFS-JP Crawler](https://github.com/bulo-hq/gtfs-jp-crawler)
 - [GTFS-RT Crawler](https://github.com/bulo-hq/gtfs-rt-crawler)
+- [GTFS-JP Crawler Executor](https://github.com/bulo-hq/gtfs-jp-crawler-executor)
+- [GTFS-RT Crawler Executor](https://github.com/bulo-hq/gtfs-rt-crawler-executor)
 
 &copy; 2024 BuLo Developers
