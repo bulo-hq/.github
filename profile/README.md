@@ -14,4 +14,4 @@
 - [GTFS-JP Crawler](https://github.com/bulo-hq/gtfs-jp-crawler)
 - [GTFS-RT Crawler](https://github.com/bulo-hq/gtfs-rt-crawler)
 
-&copy; 2023 BuLo Developers
+&copy; 2024 BuLo Developers
