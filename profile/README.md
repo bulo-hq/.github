@@ -26,8 +26,9 @@
   - Executor
     - [GTFS-JP Crawler Executor](https://github.com/bulo-hq/gtfs-jp-crawler-executor)
     - [GTFS-RT Crawler Executor](https://github.com/bulo-hq/gtfs-rt-crawler-executor)
-- [OSM API](https://github.com/bulo-hq/osm-api)
-- [OSRM API](https://github.com/bulo-hq/osrm-api)
+- External APIs
+  - [OSM API](https://github.com/bulo-hq/osm-api)
+  - [OSRM API](https://github.com/bulo-hq/osrm-api)
 
 ## Archived Projects
 - [Auth API (GraphQL)](https://github.com/bulo-hq/auth-api-gql)
