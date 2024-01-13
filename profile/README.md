@@ -22,8 +22,13 @@
 - [GTFS-RT Crawler Executor](https://github.com/bulo-hq/gtfs-rt-crawler-executor)
 
 ## Archived Projects
+- [Auth API (GraphQL)](https://github.com/bulo-hq/auth-api-gql)
 - [Location API (GraphQL)](https://github.com/bulo-hq/location-api-gql)
 - [Transit API (GraphQL)](https://github.com/bulo-hq/transit-api-gql)
+- [GTFS-JP Importer (Python)](https://github.com/bulo-hq/bulo-hq/gtfs-jp-importer-py)
+
+## Utilities
+- [Firebase Auth Token](https://github.com/bulo-hq/firebase-auth-token)
 
 ## PBL
 - [Interim Report](https://github.com/bulo-hq/pbl-interim-report)
