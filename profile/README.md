@@ -6,7 +6,7 @@
   - [iOS App](https://github.com/bulo-hq/ios-app)
   - [Android App](https://github.com/bulo-hq/android-app)
   - [Flutter App](https://github.com/bulo-hq/flutter-app)
-  - [Developers iOS App](https://github.com/bulo-hq/developers-ios-app)
+  - [Developers iOS App](https://github.com/kantacky/BuLoDevelopers)
 - [APIs](https://github.com/bulo-hq/apis)
   - [APIs Go](https://github.com/bulo-hq/apis-go)
   - [APIs Swift](https://github.com/bulo-hq/apis-swift)
