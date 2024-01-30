@@ -23,10 +23,7 @@
   - [GTFS API](https://github.com/bulo-hq/gtfs-api)
   - [GTFS-JP API](https://github.com/bulo-hq/gtfs-jp-api)
   - [GTFS-RT API](https://github.com/bulo-hq/gtfs-rt-api)
-- Crawler
-  - [GTFS-JP Crawler](https://github.com/bulo-hq/gtfs-jp-crawler)
-  - [GTFS-RT Crawler](https://github.com/bulo-hq/gtfs-rt-crawler)
-- External APIs
+- Self Hosted External APIs
   - [OSM API](https://github.com/bulo-hq/osm-api)
   - [OSRM API](https://github.com/bulo-hq/osrm-api)
 
@@ -35,6 +32,7 @@
 - [Location API (GraphQL)](https://github.com/bulo-hq/location-api-gql)
 - [Transit API (GraphQL)](https://github.com/bulo-hq/transit-api-gql)
 - [GTFS-JP Importer (Python)](https://github.com/bulo-hq/gtfs-jp-importer-py)
+- [GTFS-RT Crawler](https://github.com/bulo-hq/gtfs-rt-crawler)
 
 ## Utilities
 - [Firebase Auth Token](https://github.com/bulo-hq/firebase-auth-token)
