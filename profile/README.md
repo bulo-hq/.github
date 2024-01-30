@@ -1,5 +1,6 @@
 # BuLo
-![ArchitectureDiagram](https://github.com/bulo-hq/.github/assets/51151242/269e4da3-e26a-486a-b481-99ae5717b74a)
+![ArchitectureDiagram](https://github.com/bulo-hq/.github/assets/51151242/1ede5d25-035d-4235-8373-03109e273f12)
+
 
 ## Projects
 - Client
