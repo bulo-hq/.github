@@ -28,18 +28,24 @@
   - [OSM API](https://github.com/bulo-hq/osm-api)
   - [OSRM API](https://github.com/bulo-hq/osrm-api)
 
-## Archived Projects
+### Archived
 - [Auth API (GraphQL)](https://github.com/bulo-hq/auth-api-gql)
 - [Location API (GraphQL)](https://github.com/bulo-hq/location-api-gql)
 - [Transit API (GraphQL)](https://github.com/bulo-hq/transit-api-gql)
 - [GTFS-JP Importer (Python)](https://github.com/bulo-hq/gtfs-jp-importer-py)
 - [GTFS-RT Crawler](https://github.com/bulo-hq/gtfs-rt-crawler)
 
-## Utilities
+### Utilities
 - [Firebase Auth Token](https://github.com/bulo-hq/firebase-auth-token)
 
-## PBL
+### PBL
 - [Interim Report](https://github.com/bulo-hq/pbl-interim-report)
 - [Final Report](https://github.com/bulo-hq/pbl-final-report)
+
+## Members
+- [Marimo Shimomura](https://github.com/nanosuke) (Product Owner)
+- [Kanta Oikawa](https://github.com/kantacky) (Engineering Manager)
+- [Keisuke Inada](https://github.com/diffutpp) (Client-side Engineering Manager)
+- [Takeru Otsu](https://github.com/otaken1221) (Server-side Engineering Manager)
 
 &copy; 2024 BuLo Developers
