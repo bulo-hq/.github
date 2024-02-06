@@ -6,13 +6,11 @@
 - Client
   - [iOS App](https://github.com/bulo-hq/ios-app)
   - [Android App](https://github.com/bulo-hq/android-app)
-  - [Flutter App](https://github.com/bulo-hq/flutter-app)
   - [Developers iOS App](https://github.com/kantacky/BuLoDevelopers)
 - [APIs](https://github.com/bulo-hq/apis)
   - [APIs Go](https://github.com/bulo-hq/apis-go)
   - [APIs Swift](https://github.com/bulo-hq/apis-swift)
   - [APIs Kotlin](https://github.com/bulo-hq/apis-kotlin)
-  - [APIs Dart](https://github.com/bulo-hq/apis-dart)
 - BFF
   - [App BFF](https://github.com/bulo-hq/app-bff)
   - [Developers App BFF](https://github.com/bulo-hq/developers-app-bff)
@@ -22,8 +20,8 @@
   - [Transit API](https://github.com/bulo-hq/transit-api)
 - GTFS APIs
   - [GTFS API](https://github.com/bulo-hq/gtfs-api)
-  - [GTFS-JP API](https://github.com/bulo-hq/gtfs-jp-api)
-  - [GTFS-RT API](https://github.com/bulo-hq/gtfs-rt-api)
+  - [GTFS Static API](https://github.com/bulo-hq/gtfs-static-api)
+  - [GTFS Realtime API](https://github.com/bulo-hq/gtfs-realtime-api)
 - Self Hosted External APIs
   - [OSM API](https://github.com/bulo-hq/osm-api)
   - [OSRM API](https://github.com/bulo-hq/osrm-api)
@@ -34,6 +32,7 @@
 - [Transit API (GraphQL)](https://github.com/bulo-hq/transit-api-gql)
 - [GTFS-JP Importer (Python)](https://github.com/bulo-hq/gtfs-jp-importer-py)
 - [GTFS-RT Crawler](https://github.com/bulo-hq/gtfs-rt-crawler)
+- [Flutter App](https://github.com/bulo-hq/flutter-app)
 
 ### Utilities
 - [Firebase Auth Token](https://github.com/bulo-hq/firebase-auth-token)
