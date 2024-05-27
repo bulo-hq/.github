@@ -1,6 +1,5 @@
 # BuLo
-![ArchitectureDiagram](https://github.com/bulo-hq/.github/assets/51151242/1ede5d25-035d-4235-8373-03109e273f12)
-
+![ArchitectureDiagram](https://github.com/bulo-hq/.github/assets/51151242/42d865ce-a07f-4f9b-804d-1bb375f2f45b)
 
 ## Projects
 - Client
@@ -17,7 +16,6 @@
   - [App BFF](https://github.com/bulo-hq/app-bff)
   - [Developers App BFF](https://github.com/bulo-hq/developers-app-bff)
 - Core APIs
-  - [AppVersion API](https://github.com/bulo-hq/app-version-api)
   - [Place API](https://github.com/bulo-hq/place-api)
   - [Transit API](https://github.com/bulo-hq/transit-api)
 - GTFS APIs
@@ -35,6 +33,7 @@
 - [GTFS-JP Importer (Python)](https://github.com/bulo-hq/gtfs-jp-importer-py)
 - [GTFS-RT Crawler](https://github.com/bulo-hq/gtfs-rt-crawler)
 - [Flutter App](https://github.com/bulo-hq/flutter-app)
+- [AppVersion API](https://github.com/bulo-hq/app-version-api)
 
 ### Utilities
 - [Firebase Auth Token](https://github.com/bulo-hq/firebase-auth-token)
