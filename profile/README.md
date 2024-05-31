@@ -9,6 +9,7 @@
     - [fastlane match](https://github.com/bulo-hq/android-match)
   - [Developers iOS App](https://github.com/kantacky/BuLoDevelopers)
 - [APIs](https://github.com/bulo-hq/apis)
+  [![Release](https://github.com/bulo-hq/apis/actions/workflows/release.yml/badge.svg)](https://github.com/bulo-hq/apis/actions/workflows/release.yml)
   - [APIs Go](https://github.com/bulo-hq/apis-go)
   - [APIs Swift](https://github.com/bulo-hq/apis-swift)
   - [APIs Kotlin](https://github.com/bulo-hq/apis-kotlin)
