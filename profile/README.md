@@ -14,18 +14,30 @@
   - [APIs Swift](https://github.com/bulo-hq/apis-swift)
   - [APIs Kotlin](https://github.com/bulo-hq/apis-kotlin)
 - BFF
-  - [App BFF](https://github.com/bulo-hq/app-bff)
-  - [Developers App BFF](https://github.com/bulo-hq/developers-app-bff)
+  - [App BFF](https://github.com/bulo-hq/app-bff)  
+    [![CD](https://github.com/bulo-hq/app-bff/actions/workflows/cd.yml/badge.svg)](https://github.com/bulo-hq/app-bff/actions/workflows/cd.yml)
+  - [Developers App BFF](https://github.com/bulo-hq/developers-app-bff)  
+    [![CD](https://github.com/bulo-hq/developers-app-bff/actions/workflows/cd.yml/badge.svg)](https://github.com/bulo-hq/developers-app-bff/actions/workflows/cd.yml)
 - Core APIs
-  - [Place API](https://github.com/bulo-hq/place-api)
-  - [Transit API](https://github.com/bulo-hq/transit-api)
+  - [Place API](https://github.com/bulo-hq/place-api)  
+    [![CD](https://github.com/bulo-hq/place-api/actions/workflows/cd.yml/badge.svg)](https://github.com/bulo-hq/place-api/actions/workflows/cd.yml)
+  - [Transit API](https://github.com/bulo-hq/transit-api)  
+    [![CD](https://github.com/bulo-hq/transit-api/actions/workflows/cd.yml/badge.svg)](https://github.com/bulo-hq/transit-api/actions/workflows/cd.yml)
 - GTFS APIs
-  - [GTFS API](https://github.com/bulo-hq/gtfs-api)
-  - [GTFS Static API](https://github.com/bulo-hq/gtfs-static-api)
-  - [GTFS Realtime API](https://github.com/bulo-hq/gtfs-realtime-api)
+  - [GTFS API](https://github.com/bulo-hq/gtfs-api)  
+    [![CD](https://github.com/bulo-hq/gtfs-api/actions/workflows/cd.yml/badge.svg)](https://github.com/bulo-hq/gtfs-api/actions/workflows/cd.yml)
+  - [GTFS Static API](https://github.com/bulo-hq/gtfs-static-api)  
+    [![CD](https://github.com/bulo-hq/gtfs-static-api/actions/workflows/cd.yml/badge.svg)](https://github.com/bulo-hq/gtfs-static-api/actions/workflows/cd.yml)
+  - [GTFS Realtime API](https://github.com/bulo-hq/gtfs-realtime-api)  
+    [![CD](https://github.com/bulo-hq/gtfs-realtime-api/actions/workflows/cd.yml/badge.svg)](https://github.com/bulo-hq/gtfs-realtime-api/actions/workflows/cd.yml)
 - Self Hosted External APIs
-  - [OSM API](https://github.com/bulo-hq/osm-api)
-  - [OSRM API](https://github.com/bulo-hq/osrm-api)
+  - [Nominatim API](https://github.com/bulo-hq/nominatim-api)  
+    [![CD](https://github.com/bulo-hq/nominatim-api/actions/workflows/cd.yml/badge.svg)](https://github.com/bulo-hq/nominatim-api/actions/workflows/cd.yml)
+  - [OSRM API](https://github.com/bulo-hq/osrm-api)  
+    [![CD](https://github.com/bulo-hq/osrm-api/actions/workflows/cd.yml/badge.svg)](https://github.com/bulo-hq/osrm-api/actions/workflows/cd.yml)
+- Utilities
+  - [Go Utils](https://github.com/bulo-hq/go-utils)  
+    [![CI](https://github.com/bulo-hq/go-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/go-utils/actions/workflows/ci.yml)
 
 ### Archived
 - [Auth API (GraphQL)](https://github.com/bulo-hq/auth-api-gql)
