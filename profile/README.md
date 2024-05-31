@@ -38,6 +38,7 @@
 - Utilities
   - [Go Utils](https://github.com/bulo-hq/go-utils)  
     [![CI](https://github.com/bulo-hq/go-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/go-utils/actions/workflows/ci.yml)
+- [DB](https://github.com/bulo-hq/db)
 
 ### Archived
 - [Auth API (GraphQL)](https://github.com/bulo-hq/auth-api-gql)
