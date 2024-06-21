@@ -4,8 +4,10 @@
 ## Projects
 - Client
   - [iOS App](https://github.com/bulo-hq/ios-app)
+    [![CI](https://github.com/bulo-hq/ios-app/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/ios-app/actions/workflows/ci.yml)
     - [fastlane match](https://github.com/bulo-hq/ios-match)
   - [Android App](https://github.com/bulo-hq/android-app)
+    [![CI](https://github.com/bulo-hq/android-app/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/android-app/actions/workflows/ci.yml)
     - [fastlane match](https://github.com/bulo-hq/android-match)
   - [Developers iOS App](https://github.com/kantacky/BuLoDevelopers)
 - [APIs](https://github.com/bulo-hq/apis)  
@@ -48,18 +50,10 @@
 - [GTFS-RT Crawler](https://github.com/bulo-hq/gtfs-rt-crawler)
 - [Flutter App](https://github.com/bulo-hq/flutter-app)
 - [AppVersion API](https://github.com/bulo-hq/app-version-api)
-
-### Utilities
 - [Firebase Auth Token](https://github.com/bulo-hq/firebase-auth-token)
 
 ### PBL
 - [Interim Report](https://github.com/bulo-hq/pbl-interim-report)
 - [Final Report](https://github.com/bulo-hq/pbl-final-report)
-
-## Members
-- [Marimo Shimomura](https://github.com/nanosuke) (Product Owner)
-- [Kanta Oikawa](https://github.com/kantacky) (Engineering Manager)
-- [Keisuke Inada](https://github.com/diffutpp) (Client-side Engineering Manager)
-- [Takeru Otsu](https://github.com/otaken1221) (Server-side Engineering Manager)
 
 &copy; 2024 BuLo Developers
