@@ -3,10 +3,10 @@
 
 ## Projects
 - Client
-  - [iOS App](https://github.com/bulo-hq/ios-app)
+  - [iOS App](https://github.com/bulo-hq/ios-app)  
     [![CI](https://github.com/bulo-hq/ios-app/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/ios-app/actions/workflows/ci.yml)
     - [fastlane match](https://github.com/bulo-hq/ios-match)
-  - [Android App](https://github.com/bulo-hq/android-app)
+  - [Android App](https://github.com/bulo-hq/android-app)  
     [![CI](https://github.com/bulo-hq/android-app/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/android-app/actions/workflows/ci.yml)
     - [fastlane match](https://github.com/bulo-hq/android-match)
   - [Developers iOS App](https://github.com/kantacky/BuLoDevelopers)
