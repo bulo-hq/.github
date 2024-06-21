@@ -42,16 +42,6 @@
     [![CI](https://github.com/bulo-hq/go-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/go-utils/actions/workflows/ci.yml)
 - [DB](https://github.com/bulo-hq/db)
 
-### Archived
-- [Auth API (GraphQL)](https://github.com/bulo-hq/auth-api-gql)
-- [Location API (GraphQL)](https://github.com/bulo-hq/location-api-gql)
-- [Transit API (GraphQL)](https://github.com/bulo-hq/transit-api-gql)
-- [GTFS-JP Importer (Python)](https://github.com/bulo-hq/gtfs-jp-importer-py)
-- [GTFS-RT Crawler](https://github.com/bulo-hq/gtfs-rt-crawler)
-- [Flutter App](https://github.com/bulo-hq/flutter-app)
-- [AppVersion API](https://github.com/bulo-hq/app-version-api)
-- [Firebase Auth Token](https://github.com/bulo-hq/firebase-auth-token)
-
 ### PBL
 - [Interim Report](https://github.com/bulo-hq/pbl-interim-report)
 - [Final Report](https://github.com/bulo-hq/pbl-final-report)
