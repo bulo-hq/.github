@@ -2,7 +2,7 @@
 ![ArchitectureDiagram](https://github.com/bulo-hq/.github/assets/51151242/42d865ce-a07f-4f9b-804d-1bb375f2f45b)
 
 ## Projects
-- Client
+- [Client](https://github.com/bulo-hq/bulo-app)
   - [iOS App](https://github.com/bulo-hq/ios-app)  
     [![CI](https://github.com/bulo-hq/ios-app/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/ios-app/actions/workflows/ci.yml)
     - [fastlane match](https://github.com/bulo-hq/ios-match)
