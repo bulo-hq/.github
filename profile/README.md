@@ -3,6 +3,7 @@
 
 ## Projects
 - [Client](https://github.com/bulo-hq/bulo-app)
+  [![CI](https://github.com/bulo-hq/bulo-app/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/bulo-app/actions/workflows/ci.yml)
   - [iOS App](https://github.com/bulo-hq/ios-app)  
     [![CI](https://github.com/bulo-hq/ios-app/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/ios-app/actions/workflows/ci.yml)
     - [fastlane match](https://github.com/bulo-hq/ios-match)
@@ -10,6 +11,7 @@
     [![CI](https://github.com/bulo-hq/android-app/actions/workflows/ci.yml/badge.svg)](https://github.com/bulo-hq/android-app/actions/workflows/ci.yml)
     - [fastlane match](https://github.com/bulo-hq/android-match)
   - [Developers iOS App](https://github.com/kantacky/BuLoDevelopers)
+  - [Demo iOS App](https://github.com/kantacky/BuLoDemo)
 - [APIs](https://github.com/bulo-hq/apis)  
   [![Release](https://github.com/bulo-hq/apis/actions/workflows/release.yml/badge.svg)](https://github.com/bulo-hq/apis/actions/workflows/release.yml)
   - [APIs Go](https://github.com/bulo-hq/apis-go)
